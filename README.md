@@ -8,7 +8,7 @@ See `examples` for usage.
 
 Installation using `setup.py`, for e.g.:
 
-    `cd spillpy && pip install .`
+    cd spillpy && pip install .
 
 ## References
 
