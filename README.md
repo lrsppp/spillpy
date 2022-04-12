@@ -1,8 +1,8 @@
 # spillpy
 
-Implementation of total and directional spillover metrics (see e.g. Diebold and Yilmaz (2012)). This small package is built around the `VARResultsWrapper` returned by `statsmodels.tsa.vector_ar.VAR`
+Implementation of total and directional spillover metrics (see e.g. Diebold and Yilmaz (2012)). This small package is built around `VARResultsWrapper` and [`statsmodels.tsa.vector_ar.VAR`](https://www.statsmodels.org/dev/vector_ar.html).
 
-See `examples` for a quick introduction.
+See `examples` for usage. 
 
 ## Installation
 
